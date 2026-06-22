@@ -8,7 +8,7 @@ An aspiring **Data Scientist** and **Data Analyst** passionate about transformin
 **Data Analytics:** Exploratory Data Analysis (EDA) • Statistical Analysis • Data Cleaning & Wrangling
 **Data Visualization:** Creating intuitive dashboards to tell compelling data stories for stakeholders.
 
-
+ 
 
 ### 🛠️ Technical Toolbox
 **Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (PostgreSQL, MySQL), R
