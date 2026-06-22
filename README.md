@@ -13,27 +13,23 @@ An aspiring **Data Scientist** and **Data Analyst** passionate about transformin
 **Data Analytics:** Exploratory Data Analysis (EDA) • Statistical Analysis • Data Cleaning & Wrangling
 **Data Visualization:** Creating intuitive dashboards to tell compelling data stories for stakeholders.
 
----
+
 
 ### 🛠️ Technical Toolbox
-- **Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (PostgreSQL, MySQL), R
-- **BI Tools:** Tableau • Power BI
-- **Tools & Platforms:** Git/GitHub • Jupyter Notebooks • VS Code • Excel
-
----
+**Languages:** Python (Pandas, NumPy, Scikit-Learn, SciPy), SQL (PostgreSQL, MySQL), R
+**BI Tools:** Tableau • Power BI
+**Tools & Platforms:** Git/GitHub • Jupyter Notebooks • VS Code • Excel
 
 ### 🚀 Featured Projects
 
 #### 🤖 Sign-to-Text Translation Models (Deep Learning)
-- Developed two independent neural networks to bridge communication gaps for the Deaf and hard-of-hearing communities.
-- Built a **Convolutional Neural Network (CNN)** to accurately translate static ASL fingerspelling images into character-based text.
-- Implemented a **Long Short-Term Memory (LSTM)** network to track dynamic, sequential gestures and facial non-manual features for full-word translations.
+Developed two independent neural networks to bridge communication gaps for the Deaf and hard-of-hearing communities.
+Built a **Convolutional Neural Network (CNN)** to accurately translate static ASL fingerspelling images into character-based text.
+Implemented a **Long Short-Term Memory (LSTM)** network to track dynamic, sequential gestures and facial non-manual features for full-word translations.
 
 *(Pro-Tip: Replace this with links to your specific repository once created!)*
 
----
-
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [www.linkedin.com/in/pranav-mohan-b4247a376]
+💼 **LinkedIn:** [www.linkedin.com/in/pranav-mohan-b4247a376]
 
 
