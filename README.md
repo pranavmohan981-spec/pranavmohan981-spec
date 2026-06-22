@@ -4,16 +4,14 @@
 **pranavmohan981-spec/pranavmohan981-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
-- 🔭 I’m currently working on # Hi there, I'm Pranav Mohan 👋
+🔭 I’m currently working on # Hi there, I'm Pranav Mohan 👋
 
 An aspiring **Data Scientist** and **Data Analyst** passionate about transforming raw data into actionable business insights. I specialize in building predictive models, designing interactive dashboards, and uncovering hidden patterns in complex datasets.
 
----
-
 ### 📊 Professional Focus
-- **Data Science:** Predictive Modeling • Machine Learning (Regression, Classification, Clustering) • Deep Learning (CNNs, LSTMs)
-- **Data Analytics:** Exploratory Data Analysis (EDA) • Statistical Analysis • Data Cleaning & Wrangling
-- **Data Visualization:** Creating intuitive dashboards to tell compelling data stories for stakeholders.
+**Data Science:** Predictive Modeling • Machine Learning (Regression, Classification, Clustering) • Deep Learning (CNNs, LSTMs)
+**Data Analytics:** Exploratory Data Analysis (EDA) • Statistical Analysis • Data Cleaning & Wrangling
+**Data Visualization:** Creating intuitive dashboards to tell compelling data stories for stakeholders.
 
 ---
 
