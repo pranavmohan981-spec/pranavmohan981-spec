@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**pranavmohan981-spec/pranavmohan981-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  
 🔭 I’m currently working on # Hi there, I'm Pranav Mohan 👋
 
